@@ -18,8 +18,8 @@ Navigate to http://localhost:4200/. The app will automatically reload if you cha
 In the command prompt/terminal type=> npm install ng2-translate --save
 <li> <b>Install jQuery </b></li>
 In the command prompt/terminal type=> npm install jquery bootstrap --save
-<br/>
-Adding/specifying style and scripts in .angular-cli.json <br/>
+<br/> <br/>
+<b>Adding/specifying style and scripts in .angular-cli.json </b><br/>
 <br/>
 
       "styles": [
