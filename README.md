@@ -20,11 +20,12 @@ In the command prompt/terminal type=> npm install ng2-translate --save
 In the command prompt/terminal type=> npm install jquery bootstrap --save
 <br/>
 Adding/specifying style and scripts in .angular-cli.json <br/>
+<br/>
 "styles": 
         "../node_modules/bootstrap/dist/css/bootstrap.css", 
         "styles.css"
         
-      ],<br/>
+      ],
       "scripts": 
         "../node_modules/jquery/dist/jquery.js",
         "../node_modules/bootstrap/dist/js/bootstrap.js"
