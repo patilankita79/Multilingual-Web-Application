@@ -26,6 +26,7 @@ Adding/specifying style and scripts in .angular-cli.json <br/>
         "styles.css"
         
       ],
+      <br/>
       "scripts": [
         "../node_modules/jquery/dist/jquery.js",
         "../node_modules/bootstrap/dist/js/bootstrap.js"
