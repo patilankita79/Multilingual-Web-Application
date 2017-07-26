@@ -21,7 +21,7 @@ In the command prompt/terminal type=> npm install jquery bootstrap --save
 <br/>
 Adding/specifying style and scripts in .angular-cli.json <br/>
 <br/>
-"styles": [
+      "styles": [
         "../node_modules/bootstrap/dist/css/bootstrap.css", <br/>
         "styles.css"
         
